@@ -1,0 +1,9 @@
+#require "oUnit";;
+#require "yojson";;
+#require "ANSITerminal";;
+#require "str";;
+#directory "_build";;
+#load "main.cmo";;
+#load "state.cmo";;
+#load "command.cmo";;
+#load_rec "treeDictionary.cmo";;
